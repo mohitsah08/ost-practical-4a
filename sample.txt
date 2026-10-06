@@ -1,1 +1,2 @@
 Initial content of sample.txt
+Updated content from feature-update branch
